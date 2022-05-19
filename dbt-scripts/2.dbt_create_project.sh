@@ -1,3 +1,0 @@
-dbt init
-
-dbt init 
